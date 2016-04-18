@@ -11,10 +11,10 @@
   (fp_line (start -12.5 -3.05) (end -12.25 -2.8) (layer F.SilkS) (width 0.15))
   (fp_line (start -12 -3.05) (end -12.5 -3.05) (layer F.SilkS) (width 0.15))
   (fp_line (start -12.25 -2.8) (end -12 -3.05) (layer F.SilkS) (width 0.15))
-  (fp_line (start -14.725 3.1) (end 14.725 3.1) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -14.725 -3.1) (end 14.725 -3.1) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -14.725 3.1) (end -14.725 -3.1) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 14.725 3.1) (end 14.725 -3.1) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -14.75 3.1) (end 14.75 3.1) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -14.75 -3.1) (end 14.75 -3.1) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -14.75 3.1) (end -14.75 -3.1) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 14.75 3.1) (end 14.75 -3.1) (layer F.CrtYd) (width 0.05))
   (fp_line (start -13 1.95) (end -13.9 1.95) (layer F.SilkS) (width 0.15))
   (fp_line (start -14.25 1.15) (end -13.9 1.15) (layer F.SilkS) (width 0.15))
   (fp_line (start -14.25 0.1) (end -14.25 1.15) (layer F.SilkS) (width 0.15))
@@ -141,7 +141,7 @@
   (pad 1 smd rect (at -12.25 -1.85) (size 0.3 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -12.25 1.85) (size 0.3 1.5) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -13.5 -0.85) (size 1.45 1.45) (drill 1.45) (layers *.Cu *.Mask F.SilkS))
-  (model Connect.3dshapes/LSHM-150-xx-xx.x-x-DC-A-N.wrl
+  (model Connectors_Samtec.3dshapes/LSHM-150-xx-xx.x-x-DC-A-N.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
