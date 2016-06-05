@@ -1,11 +1,11 @@
-(module LSHM-130-xx-xxx-x-DV-A-S (layer F.Cu) (tedit 5731490E)
+(module LSHM-130-xxx-x-DV-A-S (layer F.Cu) (tedit 5731490E)
   (descr "Samtec LSHM-DV HIGH SPEED HERMAPHRODITIC STRIP 60 PINS SHIELDED")
   (tags "0.5mm samtec lshm razor")
   (attr smd)
   (fp_text reference REF** (at -9.45 -3.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LSHM-130-xx-xxx-x-DV-A-S (at 0 4) (layer F.Fab)
+  (fp_text value LSHM-130-xxx-x-DV-A-S (at 0 4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -7.5 -3.05) (end -7.25 -2.8) (layer F.SilkS) (width 0.15))
@@ -85,7 +85,7 @@
   (pad 1 smd rect (at -7.25 -1.85) (size 0.3 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -7.25 1.85) (size 0.3 1.5) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -8.5 -0.85) (size 1.45 1.45) (drill 1.45) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Connectors_Samtec.3dshapes/LSHM-130-xx-xxx-x-DV-A-S.wrl
+  (model ${KISYS3DMOD}/Connectors_Samtec.3dshapes/LSHM-130-xxx-x-DV-A-S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 180))
