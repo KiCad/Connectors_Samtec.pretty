@@ -1,4 +1,4 @@
-(module MECF-08-01-L-DV-WT (layer F.Cu) (tedit 58FFCB34)
+(module MECF-08-01-L-DV-WT_socket (layer F.Cu) (tedit 58FFCB34)
   (descr http://suddendocs.samtec.com/prints/mecf-xx-xx-xx-dv-xx-xx-footprint.pdf)
   (tags "Connector samtec high-speed")
   (fp_text reference REF** (at 0 -4.445) (layer F.SilkS)
