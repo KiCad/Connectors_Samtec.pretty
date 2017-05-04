@@ -1,4 +1,4 @@
-(module MECF-30-0_-NP-L-DV_connector (layer F.Cu) (tedit 590B2813)
+(module MECF-30-0_-NP-L-DV_connector (layer F.Cu) (tedit 590B288A)
   (descr "Highspeed card edge connector for PCB's with 30 contacts (not polarized)")
   (tags "conn samtec card-edge high-speed")
   (attr smd)
