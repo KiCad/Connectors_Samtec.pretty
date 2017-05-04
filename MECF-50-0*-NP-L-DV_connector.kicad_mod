@@ -1,6 +1,7 @@
-(module MECF-50-0*-NP-L-DV_connector (layer F.Cu) (tedit 590B1F2C)
+(module MECF-50-0*-NP-L-DV_connector (layer F.Cu) (tedit 590B2059)
   (descr "Highspeed card edge connector for PCB's with 50 contacts (not polarized)")
   (tags "conn samtec card-edge high-speed")
+  (attr smd)
   (fp_text reference REF** (at 0 3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

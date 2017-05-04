@@ -1,6 +1,7 @@
-(module MECF-20-01-L-DV_socket (layer F.Cu) (tedit 590B1965)
+(module MECF-20-01-L-DV_socket (layer F.Cu) (tedit 590B2055)
   (descr "Highspeed card edge connector for 1.6mm PCB's with 20 contacts (polarized)")
   (tags "conn samtec card-edge high-speed")
+  (attr smd)
   (fp_text reference REF** (at 0 3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
