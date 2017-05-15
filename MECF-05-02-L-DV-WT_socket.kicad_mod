@@ -1,4 +1,4 @@
-(module MECF-05-02-L-DV-WT_socket (layer F.Cu) (tedit 590B2619)
+(module MECF-05-02-L-DV-WT_socket (layer F.Cu) (tedit 59198A75)
   (descr "Highspeed card edge connector for 2.4mm PCB's with 05 contacts (polarized)")
   (tags "conn samtec card-edge high-speed")
   (attr smd)

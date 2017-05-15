@@ -1,4 +1,4 @@
-(module MECF-40-01-NP-L-DV_socket (layer F.Cu) (tedit 590B2619)
+(module MECF-40-01-NP-L-DV_socket (layer F.Cu) (tedit 59198A76)
   (descr "Highspeed card edge connector for 1.6mm PCB's with 40 contacts (not polarized)")
   (tags "conn samtec card-edge high-speed")
   (attr smd)

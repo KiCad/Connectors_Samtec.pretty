@@ -1,4 +1,4 @@
-(module MECF-30-01-L-DV-WT_socket (layer F.Cu) (tedit 590B2619)
+(module MECF-30-01-L-DV-WT_socket (layer F.Cu) (tedit 59198A75)
   (descr "Highspeed card edge connector for 1.6mm PCB's with 30 contacts (polarized)")
   (tags "conn samtec card-edge high-speed")
   (attr smd)
