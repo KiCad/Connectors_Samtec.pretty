@@ -1,4 +1,4 @@
-(module MECF-50-0_-L-DV_Edge (layer F.Cu) (tedit 594BAD88)
+(module MECF-50-0_-L-DV_Edge (layer F.Cu) (tedit 594BB3E5)
   (descr "Highspeed card edge connector for PCB's with 50 contacts (polarized)")
   (tags "conn samtec card-edge high-speed")
   (attr virtual)
